@@ -10,7 +10,7 @@ Methods Used:
 - Heatmaps to check for Colinear Relationships
 - EDA of vairables
 - Feature Selection
-- Preporcessing of numerical and categorical data (ordinal and cardinal)
+- Preprocessing of numerical and categorical data (ordinal and cardinal)
 - Linear Regression model
 - Lasso model and feature selection
 - Random Forest Regressor
